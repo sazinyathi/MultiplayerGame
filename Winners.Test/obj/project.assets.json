@@ -5276,11 +5276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winners.Test\\Winners.Test.csproj",
+      "projectUniqueName": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winners.Test\\Winners.Test.csproj",
       "projectName": "Winners.Test",
-      "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winners.Test\\Winners.Test.csproj",
+      "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winners.Test\\Winners.Test.csproj",
       "packagesPath": "C:\\Users\\sazin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winners.Test\\obj\\",
+      "outputPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winners.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sazin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5297,8 +5297,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\Winner.csproj": {
-              "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\Winner.csproj"
+            "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj": {
+              "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj"
             }
           }
         }

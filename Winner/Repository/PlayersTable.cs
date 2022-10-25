@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
 using Winner.Interface;
-using Winner.Models;
 
 namespace Winner.Repository
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\Winner.csproj": {}
+    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\Winner.csproj": {
+    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\Winner.csproj",
+        "projectUniqueName": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj",
         "projectName": "Winner",
-        "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\Winner.csproj",
+        "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj",
         "packagesPath": "C:\\Users\\sazin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame\\Winner\\obj\\",
+        "outputPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sazin\\AppData\\Roaming\\NuGet\\NuGet.Config",

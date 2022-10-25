@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using Winner.Models;
+﻿using System.Threading.Tasks;
 
 namespace Winner.Interface
 {
