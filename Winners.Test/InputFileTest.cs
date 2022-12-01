@@ -15,7 +15,7 @@ namespace Winners.Test
         {
             var fileName = "InputFile.txt";
             var model = new PlayersTable();
-            await model.ReadInputFileAsync(fileName);
+            model.ReadInputFile(fileName);
             Assert.Pass();
         }
     }

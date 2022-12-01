@@ -4,7 +4,7 @@ namespace Winner.Interface
 {
     public interface IInputFile
     {
-        Task<string []> ReadInputFileAsync(string fileName);
-        Task WriteToFileAsync(string message);
+        string [] ReadInputFile(string fileName);
+        Task WriteToFileAsync(string message, string path);
     }
 }

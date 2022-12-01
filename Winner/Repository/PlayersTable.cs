@@ -7,19 +7,18 @@ namespace Winner.Repository
 {
     public class PlayersTable : IInputFile
     {
-        private string outPutFile = "xyz.txt";
-        public async Task<string[]> ReadInputFileAsync(string fileName)
+        public string[] ReadInputFile(string fileName)
         {
             using (var reader = new StreamReader(fileName))
             {
-                string cards = await reader.ReadToEndAsync();
+                string cards = reader.ReadToEnd().Trim();
                 return cards.Split(new string[] { "\r\n" }, StringSplitOptions.None);
             }
         }
 
-        public async Task WriteToFileAsync(string message)
+        public async Task WriteToFileAsync(string message, string path)
         {
-            using (var file = new System.IO.StreamWriter(outPutFile))
+            using (var file = new System.IO.StreamWriter(path))
             {
                 await file.WriteLineAsync(message);
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj": {}
+    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame1\\Winner\\Winner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj": {
+    "C:\\Users\\sazin\\source\\repos\\MultiplayerGame1\\Winner\\Winner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj",
+        "projectUniqueName": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame1\\Winner\\Winner.csproj",
         "projectName": "Winner",
-        "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\Winner.csproj",
+        "projectPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame1\\Winner\\Winner.csproj",
         "packagesPath": "C:\\Users\\sazin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame2\\Winner\\obj\\",
+        "outputPath": "C:\\Users\\sazin\\source\\repos\\MultiplayerGame1\\Winner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sazin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,18 @@
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
